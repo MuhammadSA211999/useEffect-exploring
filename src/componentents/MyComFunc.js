@@ -1,7 +1,7 @@
 import React from 'react';
 import { useEffect } from 'react';
 import { useState } from 'react';
-
+// use effect is important 
 export default function MyComFunc() {
 
     const [count, setCount] = useState(0)
